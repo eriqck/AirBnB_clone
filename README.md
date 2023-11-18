@@ -58,8 +58,7 @@ Example:
 ```
 ##
 **Proudly written by:**
-- **[Yosri Ghorbel](https://github.com/YosriGFX)**
-- **[Hafed Inoubli](https://github.com/inoublii)**
+- **[Erick Njoroge](https://github.com/eriqck/AirBnB_clone/edit/master/README.md)**
 ##
 
 > Copyright © 2021 [Holberton School](https://www.holbertonschool.com). All rights reserved.
